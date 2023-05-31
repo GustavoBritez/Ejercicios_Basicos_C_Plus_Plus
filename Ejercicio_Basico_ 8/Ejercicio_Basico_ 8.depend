@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684525327 source:c:\users\mecha\desktop\a\ejercicio_basico_ 8\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<vector>
+
